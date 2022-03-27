@@ -84,3 +84,8 @@ h1{
     margin-left: auto;
     margin-right: auto; 
 }
+
+.column1 {/*makes a column for images, use 25% for 4 images, use 50% for two images*/
+    flex: 33.33%;
+    padding: 5px;
+}
