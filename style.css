@@ -1,6 +1,6 @@
-#body {
+body {
     background: #010000;
-    font-family: "montserrat";
+    font-family: "montserrat" "sans-serif"; 
 }
 
 #parent {
