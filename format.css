@@ -158,6 +158,27 @@ h3 {
     
     .pic9 {
         border: 1px solid #ffffff;}
+
+        .row4 {
+            display: flex;
+            margin-top: 110px;
+            margin-left: auto;
+            margin-right: auto; 
+        }
+        
+        .column4 {/*makes a column for images, use 25% for 4 images, use 50% for two images*/
+            flex: 33.33%;
+            padding: 5px;
+        }
+        
+        .pic10 {
+            border: 1px solid #ffffff;}
+        
+        .pic11 {
+            border: 1px solid #ffffff;}
+        
+        .pic12 {
+            border: 1px solid #ffffff;}
     
 
 a:link{text-decoration: none; color: #ffffff; margin: 35px;}
