@@ -53,3 +53,14 @@ body {
 	box-sizing: border-box;
 	border-radius: 10px 30px;
 }
+
+h1{
+    font-family: "roboto condensed";
+	font-size: 44px;
+	color: #000000;
+	text-transform: uppercase;
+	letter-spacing: 7px; 
+	text-align: center;
+	margin-top: 0px;
+	line-height: 95px;/*sets the placing for the heading text within the child*/  
+}
