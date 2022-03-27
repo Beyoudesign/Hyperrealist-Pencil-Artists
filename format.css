@@ -180,8 +180,29 @@ h3 {
         .pic12 {
             border: 1px solid #ffffff;}
     
+            .row5 {
+                display: flex;
+                margin-top: 110px;
+                margin-left: auto;
+                margin-right: auto; 
+            }
+            
+            .column5 {/*makes a column for images, use 25% for 4 images, use 50% for two images*/
+                flex: 33.33%;
+                padding: 5px;
+            }
+            
+            .pic13 {
+                border: 1px solid #ffffff;}
+            
+            .pic14 {
+                border: 1px solid #ffffff;}
+            
+            .pic15 {
+                border: 1px solid #ffffff;}
+        
 
 a:link{text-decoration: none; color: #ffffff; margin: 35px;}
 a:visited{text-decoration: none; color: #999999; margin: 35px;}
-a:active{ text-decoration: underline; color: #bd0299; margin 35px;}
-a:hover{text-decoration: underline; color: #ffffff; margin 35px;}
+a:active{ text-decoration: underline; color: #bd0299; margin: 35px;}
+a:hover{text-decoration: underline; color: #ffffff; margin: 35px;}
