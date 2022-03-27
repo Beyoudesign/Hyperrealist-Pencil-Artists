@@ -98,3 +98,10 @@ h1{
 
 .pic3 {
     border: 1px solid #ffffff;}
+
+.text1 {
+    text-align: justify;
+    color: #ffffff;
+    padding-left: 50px;
+    padding-right: 50px;
+}
