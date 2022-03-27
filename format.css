@@ -105,3 +105,19 @@ h1{
     padding-left: 50px;
     padding-right: 50px;
 }
+
+h3 {
+    font-family: "montserrat";
+    font-size: 12px;
+    font-style: light;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    line-height: 7px;
+}
+
+a:link{text-decoration: none; color: #ffffff; margin: 35px;}
+a:visited{text-decoration: none; color: #999999; margin: 35px;}
+a:active{ text-decoration: underline; color: #bd0299; margin 35px;}
+a:hover{text-decoration: underline; color: #ffffff; margin 35px;}
