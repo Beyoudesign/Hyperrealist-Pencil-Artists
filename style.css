@@ -54,7 +54,7 @@
 	border-radius: 10px 30px;
 }
 
-.h1{
+h1{
     font-family: "roboto condensed";
 	font-size: 44px;
 	color: #000000;
@@ -106,7 +106,7 @@
     padding-right: 50px;
 }
 
-.h3 {
+h3 {
     font-family: "montserrat";
     font-size: 12px;
     font-style: light;
