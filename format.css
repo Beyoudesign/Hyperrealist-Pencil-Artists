@@ -17,7 +17,7 @@ body {
 }
 
 #header {
-    background: #f163e6;
+    background: #fa99f2;
     width: 100%;
     height: 15%;
     margin-right: auto;
@@ -42,7 +42,7 @@ body {
 }
 
 #footer {
-    background: #f163e6;
+    background: #fa99f2;
 	width: 100%;
 	height: 7%;
 	margin-top: 10px;
@@ -203,6 +203,6 @@ h3 {
         
 
 a:link{text-decoration: none; color: #ffffff; margin: 35px;}
-a:visited{text-decoration: none; color: #f7ccec; margin: 35px;}
+a:visited{text-decoration: none; color: #e0e0e0; margin: 35px;}
 a:active{ text-decoration: underline; color: #bd0299; margin: 35px;}
 a:hover{text-decoration: underline; color: #ffffff; margin: 35px;}
