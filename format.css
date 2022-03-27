@@ -64,3 +64,16 @@ h1{
 	margin-top: 0px;
 	line-height: 95px;/*sets the placing for the heading text within the child*/  
 }
+
+.subheading {
+    font-family: "montserrat";
+	font-size: 14px;
+	font-style: light;
+	color: #000000;
+	opacity: 65%;
+	letter-spacing: 3px;
+	text-align: center;
+	margin-top: 0px;
+	position: relative;
+	top: -50px;
+}
